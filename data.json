@@ -23,28 +23,31 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
+
+  
 
 
-
-"start_vpn":"yes",
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
   
-  
 
 },
- 
- "my_data":[
-  {"title":"rstore apk 1","desc":"In the modern age of digital entertainment, the way we access and enjoy video games has undergone a profound transformation. Gone are the days of physical copies and brick-and-mortar stores as digital marketplaces provide gamers with instant access to a wealth of content. Among these, the RStore APK stands out as a gateway to a world of digital delights, offering players a convenient and streamlined way to discover, download, and enjoy their favorite games. In this article, we'll delve into the world of the RStore APK and uncover how it empowers gamers with a universe of gaming possibilities.","photo":"https://iili.io/HDu95ib.webp"},
-  {"title":"rstore apk 2","desc":"The RStore APK represents the epitome of convenience, enabling players to access their desired games and content without the need for physical copies or complex installations. By downloading and installing the RStore APK, gamers can instantly browse through a diverse library of titles, select their preferred games, and begin playing within moments. This immediate access not only saves time but also ensures that players can dive into their gaming adventures without delay.","photo":"https://iili.io/HDu9cUQ.webp"},
-  {"title":"rstore apk 3","desc":"Central to the allure of the RStore APK is its expansive library of gaming titles that cater to a wide spectrum of genres, preferences, and skill levels. From action-packed shooters to immersive role-playing epics, strategy simulations, and engaging indie titles, the RStore APK serves as a treasure trove of gaming experiences. With a diverse selection at their fingertips, players can explore new realms, embark on epic quests, and challenge themselves in ways that align with their unique gaming tastes.","photo":"https://iili.io/HDu9Gb1.webp"},
-  {"title":"rstore apk 4","desc":"One of the most enticing aspects of the RStore APK is its commitment to providing players with exclusive deals, discounts, and promotions. As players navigate through the marketplace, they can take advantage of limited-time offers to secure their desired games and content at significantly reduced prices. This ensures that players can build an extensive digital library while staying within their budget, making the RStore APK a haven for both thrifty gamers and those seeking exceptional value.","photo":"https://iili.io/HDu9VzF.webp"},
-  {"title":"rstore apk 5","desc":"The RStore APK excels in streamlining the digital gaming experience by eliminating the need for physical media and offering a centralized platform for game management. Gamers can conveniently organize their downloaded games, updates, and additional content within the APK, ensuring easy access to their collection at any time. This seamless experience not only declutters the gaming process but also enhances overall accessibility and enjoyment.","photo":"https://iili.io/HDu9NgR.webp"},
-  {"title":"rstore apk 6","desc":"A noteworthy advantage of the RStore APK is its adaptability to the preferences of individual players. With a user-friendly interface and advanced search functionalities, gamers can effortlessly navigate through the platform, filtering games by genre, popularity, user reviews, and more. This customization empowers players to curate their gaming journey based on their interests, enabling them to discover hidden gems and tailor their experience to suit their unique tastes.","photo":"https://iili.io/HDuHMYl.webp"},
-  {"title":"rstore apk 7","desc":"In a digital era marked by convenience and accessibility, the Ru Store emerges as a vital destination for gamers seeking a diverse range of gaming content and experiences. Through its extensive library, user-friendly interface, exclusive deals, and dedication to localizing the gaming experience, the Ru Store reflects the ever-evolving landscape of digital marketplaces. As gamers continue to explore the expansive world of digital delights offered by the Ru Store, they embark on a journey that exemplifies the seamless fusion of technology, entertainment, and the joy of gaming.","photo":"https://iili.io/HDuHWpS.webp"},
-  {"title":"rstore apk 8","desc":"The RStore APK represents a game-changer in the world of digital gaming, granting players unparalleled convenience, a diverse array of titles, and a wealth of exclusive offers. As the digital landscape continues to evolve, the RStore APK emerges as a beacon of accessibility, empowerment, and entertainment. By embracing this innovative platform, gamers open the door to a realm of gaming possibilities that enrich their experiences, connect them with fellow players, and redefine the way they interact with the captivating world of virtual entertainment.","photo":"https://iili.io/HDuH6j1.webp"}
+  "my_data":[
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
